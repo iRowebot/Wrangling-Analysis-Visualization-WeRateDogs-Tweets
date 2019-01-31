@@ -1,0 +1,25 @@
+name: wrangling
+channels:
+  - defaults
+dependencies:
+  - matplotlib=3.0.2
+  - numpy=1.15.4
+  - numpy-base=1.15.4
+  - openssl=1.1.1a
+  - pandas=0.23.4
+  - pip=18.1
+  - python=3.7.2
+  - python-dateutil=2.7.5
+  - requests=2.21.0
+  - scipy=1.1.0
+  - seaborn=0.9.0
+  - sqlalchemy=1.2.16
+  - sqlite=3.26.0
+  - statsmodels=0.9.0
+  - tornado=5.1.1
+  - tqdm=4.29.1
+  - traitlets=4.3.2
+  - urllib3=1.24.1
+  - wheel=0.32.3
+  - zlib=1.2.11
+prefix: C:\Users\Ernest\Anaconda3\envs\wrangling
